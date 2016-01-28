@@ -8,7 +8,7 @@ Brian
 ...
 
 Convention:
-Alman
+Allmen
 
 
 This is the starter webapp for Tutorial ci-normal01
