@@ -4,7 +4,7 @@ Starter Webapp - Quotes
 
 Team members:
 Robert - acknowledged
-Brian
+Brian - acknowledged
 ...
 
 Convention:
