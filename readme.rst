@@ -3,7 +3,7 @@ Starter Webapp - Quotes
 #######################
 
 Team members:
-Robert
+Robert - acknowledged
 Brian
 ...
 
