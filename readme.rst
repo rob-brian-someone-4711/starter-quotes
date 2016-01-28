@@ -2,6 +2,15 @@
 Starter Webapp - Quotes
 #######################
 
+Team members:
+Robert
+Brian
+...
+
+Convention:
+Alman
+
+
 This is the starter webapp for Tutorial ci-normal01
 
 It is purposefully broken.
