@@ -1,13 +1,12 @@
 <?php
 
-/**
- * Bob Monkhouse quote
+/** Socrates' quote
  * 
- * controllers/First.php
+ * controllers/Bingo.php
  *
  * ------------------------------------------------------------------------
  */
-class First extends Application {
+class Bingo extends Application {
 
 	function __construct()
 	{
@@ -22,27 +21,13 @@ class First extends Application {
 	{
 		$this->data['pagebody'] = 'justone';	// this is the view we want shown
 		// build the list of authors, to pass on to our view
-		$source = $this->quotes->first();
+		// Socrates quote
+		$source = $this->quotes->get(5);	
 		$this->data = array_merge($this->data, $source);
 
 		$this->render();
 	}
 	
-	function zzz()
-	{
-		First::index();
-	}
-	
-	function gimme($num)
-	{
-		$this->data['pagebody'] = 'justone';	// this is the view we want shown
-		// build the list of authors, to pass on to our view
-		$source = $this->quotes->get($num);
-		$this->data = array_merge($this->data, $source);
-
-		$this->render();
-	}
-
 }
 
 /* End of file Welcome.php */
