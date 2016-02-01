@@ -3,8 +3,8 @@ Starter Webapp - Quotes
 #######################
 
 Team members:
-Robert
-Brian (Acknowledge)
+Robert - acknowledged
+Brian - acknowledged
 ...
 
 Convention:
